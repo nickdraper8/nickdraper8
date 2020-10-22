@@ -8,7 +8,7 @@ If you are interested in connecting, please feel free to contact me:
 - [AngelList](https://angel.co/u/nicholas-draper-2)
 - or email me at nickdraper8@gmail.com
 
-#### Check out some of my pinned project repos below, their live links are included in the info for you to see.
+#### Check out some of my pinned project repos below, their live links are included in the info for you to explore them. Let me know how high you can score in Gun Runner!
 #### Click [here](https://nickdraper8.github.io/portfolio-page/) to see my portfolio page 😄
 
 
