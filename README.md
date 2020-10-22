@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi. My Name is Nick Draper, welcome to my GitHub Profile!
+
+#### Check out some of my project repos below, their live links are included in the info for you to see.
+#### Click [here](nickdraper8.github.io/portfolio-page/) to see my portfolio page :)
+
+
 
 <!--
 **nickdraper8/nickdraper8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
